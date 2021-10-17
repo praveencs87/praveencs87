@@ -7,6 +7,9 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [What is the easiest method to upgrade existing project in laravel 5 to 5.5](https://stackoverflow.com/questions/48112862/what-is-the-easiest-method-to-upgrade-existing-project-in-laravel-5-to-5-5)
+- [Answer by praveencs for jQuery UI datepicker doesn't hide when click outside](https://stackoverflow.com/questions/13333571/jquery-ui-datepicker-doesnt-hide-when-click-outside/33940124#33940124)
+- [Answer by praveencs for displaying wordpress content on external webpage with correct formatting](https://stackoverflow.com/questions/23262789/displaying-wordpress-content-on-external-webpage-with-correct-formatting/23266061#23266061)
 <!-- STACKOVERFLOW:END -->
 
 
