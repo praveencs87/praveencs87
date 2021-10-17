@@ -2,6 +2,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Git in more productive way ?](https://medium.com/@praveencs87/how-to-use-git-in-more-productive-way-c9ae1c232f7d?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
