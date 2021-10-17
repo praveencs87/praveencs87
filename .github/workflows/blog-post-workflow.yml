@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: praveencs87/blog-post-workflow@master
+        uses: praveencs87/praveencs87@master
         with:
           feed_list: "https://dev.to/feed/praveencs87,https://medium.com/feed/@praveencs87"
