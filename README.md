@@ -7,6 +7,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by praveencs for How to set global font or default fonts in custom widgets of elementor using code?](https://stackoverflow.com/questions/74947714/how-to-set-global-font-or-default-fonts-in-custom-widgets-of-elementor-using-cod/74948511#74948511)
 - [Answer by praveencs for How to balance two squares on a see saw in matter.js?](https://stackoverflow.com/questions/58072489/how-to-balance-two-squares-on-a-see-saw-in-matter-js/73762583#73762583)
 - [What is the easiest method to upgrade existing project in laravel 5 to 5.5](https://stackoverflow.com/questions/48112862/what-is-the-easiest-method-to-upgrade-existing-project-in-laravel-5-to-5-5)
 - [Answer by praveencs for jQuery UI datepicker doesn't hide when click outside](https://stackoverflow.com/questions/13333571/jquery-ui-datepicker-doesnt-hide-when-click-outside/33940124#33940124)
