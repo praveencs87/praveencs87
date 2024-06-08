@@ -14,6 +14,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@1.5.7
         with:
-          feed_list: "https://medium.com/feed/@praveencs87"
-          #feed_list: "https://dev.to/feed/praveencs87,https://medium.com/feed/@praveencs87"
+          #feed_list: "https://medium.com/feed/@praveencs87"
+          feed_list: "https://dev.to/feed/praveencs87,https://medium.com/feed/@praveencs87"
 
