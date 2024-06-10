@@ -2,11 +2,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Evolution of Programming: The Impact of LLMs and AI Code Generators](https://medium.com/@praveencs87/the-evolution-of-programming-the-impact-of-llms-and-ai-code-generators-9b01af08bb90?source=rss-8e2a7dce2432------2)
 - [Data Vs Code](https://medium.com/@praveencs87/data-vs-code-55726470aab0?source=rss-8e2a7dce2432------2)
 - [Blockchain for supply chain management](https://medium.com/@praveencs87/blockchain-for-supply-chain-management-cce82becbc29?source=rss-8e2a7dce2432------2)
 - [Transitioning from JavaScript to TypeScript: A Comprehensive Guide for Developers](https://medium.com/@praveencs87/transitioning-from-javascript-to-typescript-a-comprehensive-guide-for-developers-c0fe33b2f120?source=rss-8e2a7dce2432------2)
 - [Learning the Basics of Large Language Model (LLM) Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
-- [How to use Git in more productive way ?](https://medium.com/@praveencs87/how-to-use-git-in-more-productive-way-c9ae1c232f7d?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
