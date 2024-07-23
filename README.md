@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Schedule a Meeting
+
+I am available for discussions via Calendly. Please use the link below to find a time that works for you:
+
+[Schedule a Meeting with Me](https://calendly.com/praveencs87/30min)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Evolution of Programming: The Impact of LLMs and AI Code Generators](https://medium.com/@praveencs87/the-evolution-of-programming-the-impact-of-llms-and-ai-code-generators-9b01af08bb90?source=rss-8e2a7dce2432------2)
