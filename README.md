@@ -2,7 +2,7 @@
 
 ## Schedule a Meeting
 
-I am available for discussions via Calendly. Please use the link below to find a time that works for you:
+If you would like to discuss a project, collaborate, or simply connect, feel free to schedule a meeting with me :
 
 [Schedule a Meeting with Me](https://calendly.com/praveencs87/30min)
 
