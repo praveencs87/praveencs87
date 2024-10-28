@@ -16,4 +16,5 @@ jobs:
         with:
           #feed_list: "https://medium.com/feed/@praveencs87"
           feed_list: "https://dev.to/feed/praveencs87,https://medium.com/feed/@praveencs87"
+          max_post_count: 10
 
