@@ -8,11 +8,11 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hybrid Search in Pinecone with LangChain.js](https://medium.com/@praveencs87/hybrid-search-in-pinecone-with-langchain-js-04e643cac1e4?source=rss-8e2a7dce2432------2)
+- [Caching in Retrieval-Augmented Generation (RAG)](https://medium.com/@praveencs87/caching-in-retrieval-augmented-generation-rag-defdd3a91c9d?source=rss-8e2a7dce2432------2)
 - [Chunking in RAG (Retrieval-Augmented Generation): A Beginner’s Guide](https://medium.com/@praveencs87/chunking-in-rag-retrieval-augmented-generation-a-beginners-guide-28b5a81a8877?source=rss-8e2a7dce2432------2)
 - [Reranking Process with Similarity Search](https://medium.com/@praveencs87/reranking-process-with-similarity-search-013c37e5e013?source=rss-8e2a7dce2432------2)
 - [Concept of routing in LangChain step by step for a beginner](https://medium.com/@praveencs87/concept-of-routing-in-langchain-step-by-step-for-a-beginner-c5a79dff5c56?source=rss-8e2a7dce2432------2)
-- [Step-by-step guide on how to build LLM automation script using JavaScript with Node.js](https://medium.com/@praveencs87/step-by-step-guide-on-how-to-build-llm-automation-script-using-javascript-with-node-js-3a49507ec879?source=rss-8e2a7dce2432------2)
-- [Practical use cases of large language models (LLMs) in digital marketing](https://medium.com/@praveencs87/practical-use-cases-of-large-language-models-llms-in-digital-marketing-2a4e471043b7?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
