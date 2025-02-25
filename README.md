@@ -8,6 +8,9 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your JavaScript App with Pinecone: The Ultimate Guide to AI-Powered Text Embeddings](https://medium.com/@praveencs87/supercharge-your-javascript-app-with-pinecone-the-ultimate-guide-to-ai-powered-text-embeddings-55250e6a417c?source=rss-8e2a7dce2432------2)
+- [The AI Gold Rush of 2025: 20 Supercharged AI Agent Business Ideas to Build Your Next Million-Dollar…](https://medium.com/@praveencs87/the-ai-gold-rush-of-2025-20-supercharged-ai-agent-business-ideas-to-build-your-next-million-dollar-44d29b59273d?source=rss-8e2a7dce2432------2)
+- [How to Motivate Yourself to Start a Business in 2025](https://medium.com/@praveencs87/how-to-motivate-yourself-to-start-a-business-in-2025-fce1825dcc1f?source=rss-8e2a7dce2432------2)
 - [Hybrid Search in Pinecone with LangChain.js](https://medium.com/@praveencs87/hybrid-search-in-pinecone-with-langchain-js-04e643cac1e4?source=rss-8e2a7dce2432------2)
 - [Caching in Retrieval-Augmented Generation (RAG)](https://medium.com/@praveencs87/caching-in-retrieval-augmented-generation-rag-defdd3a91c9d?source=rss-8e2a7dce2432------2)
 - [Chunking in RAG (Retrieval-Augmented Generation): A Beginner’s Guide](https://medium.com/@praveencs87/chunking-in-rag-retrieval-augmented-generation-a-beginners-guide-28b5a81a8877?source=rss-8e2a7dce2432------2)
@@ -15,9 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Concept of routing in LangChain step by step for a beginner](https://medium.com/@praveencs87/concept-of-routing-in-langchain-step-by-step-for-a-beginner-c5a79dff5c56?source=rss-8e2a7dce2432------2)
 - [Step-by-step guide on how to build LLM automation script using JavaScript with Node.js](https://medium.com/@praveencs87/step-by-step-guide-on-how-to-build-llm-automation-script-using-javascript-with-node-js-3a49507ec879?source=rss-8e2a7dce2432------2)
 - [Practical use cases of large language models (LLMs) in digital marketing](https://medium.com/@praveencs87/practical-use-cases-of-large-language-models-llms-in-digital-marketing-2a4e471043b7?source=rss-8e2a7dce2432------2)
-- [The Evolution of Programming: The Impact of LLMs and AI Code Generators](https://medium.com/@praveencs87/the-evolution-of-programming-the-impact-of-llms-and-ai-code-generators-9b01af08bb90?source=rss-8e2a7dce2432------2)
-- [Data Vs Code](https://medium.com/@praveencs87/data-vs-code-55726470aab0?source=rss-8e2a7dce2432------2)
-- [Blockchain for supply chain management](https://medium.com/@praveencs87/blockchain-for-supply-chain-management-cce82becbc29?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
