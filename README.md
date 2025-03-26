@@ -10,7 +10,14 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 <!-- BLOG-POST-LIST:START -->
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
-- [Learning the Basics of Large Language Model (LLM) Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
+- [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
+- [The Ultimate SEO Blueprint for 2025: Master On-Page & Off-Page Strategies for Maximum Rankings](https://medium.com/@praveencs87/the-ultimate-seo-blueprint-for-2025-master-on-page-off-page-strategies-for-maximum-rankings-f8aaa145608b?source=rss-8e2a7dce2432------2)
+- [How to Build a Safe and Secure RAG Chatbot for Banks and Businesses](https://medium.com/@praveencs87/how-to-build-a-safe-and-secure-rag-chatbot-for-banks-and-businesses-f82d8c1364d3?source=rss-8e2a7dce2432------2)
+- [Building a LangChain LangGraph Chatbot in JavaScript](https://medium.com/@praveencs87/building-a-langchain-langgraph-chatbot-in-javascript-3b546bd2b94c?source=rss-8e2a7dce2432------2)
+- [Supercharge Your JavaScript App with Pinecone: The Ultimate Guide to AI-Powered Text Embeddings](https://medium.com/@praveencs87/supercharge-your-javascript-app-with-pinecone-the-ultimate-guide-to-ai-powered-text-embeddings-55250e6a417c?source=rss-8e2a7dce2432------2)
+- [The AI Gold Rush of 2025: 20 Supercharged AI Agent Business Ideas to Build Your Next Million-Dollar…](https://medium.com/@praveencs87/the-ai-gold-rush-of-2025-20-supercharged-ai-agent-business-ideas-to-build-your-next-million-dollar-44d29b59273d?source=rss-8e2a7dce2432------2)
+- [How to Motivate Yourself to Start a Business in 2025](https://medium.com/@praveencs87/how-to-motivate-yourself-to-start-a-business-in-2025-fce1825dcc1f?source=rss-8e2a7dce2432------2)
+- [Hybrid Search in Pinecone with LangChain.js](https://medium.com/@praveencs87/hybrid-search-in-pinecone-with-langchain-js-04e643cac1e4?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
