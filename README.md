@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
 - [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Supercharge Your JavaScript App with Pinecone: The Ultimate Guide to AI-Powered Text Embeddings](https://medium.com/@praveencs87/supercharge-your-javascript-app-with-pinecone-the-ultimate-guide-to-ai-powered-text-embeddings-55250e6a417c?source=rss-8e2a7dce2432------2)
 - [The AI Gold Rush of 2025: 20 Supercharged AI Agent Business Ideas to Build Your Next Million-Dollar…](https://medium.com/@praveencs87/the-ai-gold-rush-of-2025-20-supercharged-ai-agent-business-ideas-to-build-your-next-million-dollar-44d29b59273d?source=rss-8e2a7dce2432------2)
 - [How to Motivate Yourself to Start a Business in 2025](https://medium.com/@praveencs87/how-to-motivate-yourself-to-start-a-business-in-2025-fce1825dcc1f?source=rss-8e2a7dce2432------2)
-- [Hybrid Search in Pinecone with LangChain.js](https://medium.com/@praveencs87/hybrid-search-in-pinecone-with-langchain-js-04e643cac1e4?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
