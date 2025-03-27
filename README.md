@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧭 Part 3: Implementing Vector Search with Pinecone](https://dev.to/praveencs87/part-3-implementing-vector-search-with-pinecone-4aj0)
 - [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building a LangChain LangGraph Chatbot in JavaScript](https://medium.com/@praveencs87/building-a-langchain-langgraph-chatbot-in-javascript-3b546bd2b94c?source=rss-8e2a7dce2432------2)
 - [Supercharge Your JavaScript App with Pinecone: The Ultimate Guide to AI-Powered Text Embeddings](https://medium.com/@praveencs87/supercharge-your-javascript-app-with-pinecone-the-ultimate-guide-to-ai-powered-text-embeddings-55250e6a417c?source=rss-8e2a7dce2432------2)
 - [The AI Gold Rush of 2025: 20 Supercharged AI Agent Business Ideas to Build Your Next Million-Dollar…](https://medium.com/@praveencs87/the-ai-gold-rush-of-2025-20-supercharged-ai-agent-business-ideas-to-build-your-next-million-dollar-44d29b59273d?source=rss-8e2a7dce2432------2)
-- [How to Motivate Yourself to Start a Business in 2025](https://medium.com/@praveencs87/how-to-motivate-yourself-to-start-a-business-in-2025-fce1825dcc1f?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
