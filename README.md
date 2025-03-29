@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
 - [💬 Part 5: Designing Conversational Logic](https://dev.to/praveencs87/part-5-designing-conversational-logic-44b9)
 - [Building an E-Commerce Support Chatbot: Part 4 - Creating the LangChain Pipeline](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-4-creating-the-langchain-pipeline-420d)
 - [🧭 Part 3: Implementing Vector Search with Pinecone](https://dev.to/praveencs87/part-3-implementing-vector-search-with-pinecone-4aj0)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
 - [The Ultimate SEO Blueprint for 2025: Master On-Page & Off-Page Strategies for Maximum Rankings](https://medium.com/@praveencs87/the-ultimate-seo-blueprint-for-2025-master-on-page-off-page-strategies-for-maximum-rankings-f8aaa145608b?source=rss-8e2a7dce2432------2)
 - [How to Build a Safe and Secure RAG Chatbot for Banks and Businesses](https://medium.com/@praveencs87/how-to-build-a-safe-and-secure-rag-chatbot-for-banks-and-businesses-f82d8c1364d3?source=rss-8e2a7dce2432------2)
-- [Building a LangChain LangGraph Chatbot in JavaScript](https://medium.com/@praveencs87/building-a-langchain-langgraph-chatbot-in-javascript-3b546bd2b94c?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
