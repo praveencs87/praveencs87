@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
 - [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
 - [💬 Part 5: Designing Conversational Logic](https://dev.to/praveencs87/part-5-designing-conversational-logic-44b9)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
 - [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
-- [The Ultimate SEO Blueprint for 2025: Master On-Page & Off-Page Strategies for Maximum Rankings](https://medium.com/@praveencs87/the-ultimate-seo-blueprint-for-2025-master-on-page-off-page-strategies-for-maximum-rankings-f8aaa145608b?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
