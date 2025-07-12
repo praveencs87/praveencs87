@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Your Trello Workflow with MCP: Integrate Trello into AI Editors and Assistants](https://medium.com/@praveencs87/supercharge-your-trello-workflow-with-mcp-integrate-trello-into-ai-editors-and-assistants-06272e4f0e7c?source=rss-8e2a7dce2432------2)
 - [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
 - [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
-- [Learning the Basics of Large Language Model (LLM) Applications with LangChainJS](https://dev.to/praveencs87/learning-the-basics-of-large-language-model-llm-applications-with-langchainjs-4035)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
