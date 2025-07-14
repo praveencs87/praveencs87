@@ -4,7 +4,7 @@
 
 If you would like to discuss a project, collaborate, or simply connect, feel free to schedule a meeting with me :
 
-[Schedule a Meeting with Me](https://calendly.com/praveencs87/30min)
+[Schedule a Meeting with Me](https://calendar.app.google/UeQyV5VBF6LjjXnf6)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
