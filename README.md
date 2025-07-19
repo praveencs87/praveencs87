@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [️ Welcome to the Age of Multimodal UX](https://medium.com/@praveencs87/%EF%B8%8F-welcome-to-the-age-of-multimodal-ux-1c7dffe46fce?source=rss-8e2a7dce2432------2)
 - [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
 - [hnswsqlite — Persistent Vector Search for Node.js with HNSWlib and SQLite](https://medium.com/@praveencs87/hnswsqlite-persistent-vector-search-for-node-js-with-hnswlib-and-sqlite-8c5cdc1f3ba8?source=rss-8e2a7dce2432------2)
 - [faissqlite — Fast, Persistent Vector Search in Python with FAISS and SQLite](https://medium.com/@praveencs87/faissqlite-fast-persistent-vector-search-in-python-with-faiss-and-sqlite-962c5874948f?source=rss-8e2a7dce2432------2)
@@ -27,7 +28,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building a LangChain LangGraph Chatbot in JavaScript](https://medium.com/@praveencs87/building-a-langchain-langgraph-chatbot-in-javascript-3b546bd2b94c?source=rss-8e2a7dce2432------2)
 - [Supercharge Your JavaScript App with Pinecone: The Ultimate Guide to AI-Powered Text Embeddings](https://medium.com/@praveencs87/supercharge-your-javascript-app-with-pinecone-the-ultimate-guide-to-ai-powered-text-embeddings-55250e6a417c?source=rss-8e2a7dce2432------2)
 - [The AI Gold Rush of 2025: 20 Supercharged AI Agent Business Ideas to Build Your Next Million-Dollar…](https://medium.com/@praveencs87/the-ai-gold-rush-of-2025-20-supercharged-ai-agent-business-ideas-to-build-your-next-million-dollar-44d29b59273d?source=rss-8e2a7dce2432------2)
-- [How to Motivate Yourself to Start a Business in 2025](https://medium.com/@praveencs87/how-to-motivate-yourself-to-start-a-business-in-2025-fce1825dcc1f?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
