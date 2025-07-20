@@ -43,7 +43,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=praveencs87)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=praveencs87)](https://github.com/praveencs87)
 
 <!--
 **praveencs87/praveencs87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
