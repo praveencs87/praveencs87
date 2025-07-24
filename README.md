@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
 - [Why We Need a Modular Memory Engine for Agents](https://medium.com/@praveencs87/why-we-need-a-modular-memory-engine-for-agents-706eb1030c05?source=rss-8e2a7dce2432------2)
 - [Part 2: Mastering Self-Refining LLM Agents with Confidence Checks & Reasoning Loops](https://medium.com/@praveencs87/part-2-mastering-self-refining-llm-agents-with-confidence-checks-reasoning-loops-2374424b1312?source=rss-8e2a7dce2432------2)
 - [How to Build a Self-Refining LLM Agent — Step-by-Step with Examples](https://medium.com/@praveencs87/how-to-build-a-self-refining-llm-agent-step-by-step-with-examples-e309d9df0eae?source=rss-8e2a7dce2432------2)
@@ -27,7 +28,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
 - [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
 - [The Ultimate SEO Blueprint for 2025: Master On-Page & Off-Page Strategies for Maximum Rankings](https://medium.com/@praveencs87/the-ultimate-seo-blueprint-for-2025-master-on-page-off-page-strategies-for-maximum-rankings-f8aaa145608b?source=rss-8e2a7dce2432------2)
-- [How to Build a Safe and Secure RAG Chatbot for Banks and Businesses](https://medium.com/@praveencs87/how-to-build-a-safe-and-secure-rag-chatbot-for-banks-and-businesses-f82d8c1364d3?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
