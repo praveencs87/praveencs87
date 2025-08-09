@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Advanced Memory Strategies for LLMs & AI Agents](https://medium.com/@praveencs87/unlocking-advanced-memory-strategies-for-llms-ai-agents-a1bad11f2b0f?source=rss-8e2a7dce2432------2)
 - [Advanced Vector Search in Node.js with hnswsqlite — Real-World Patterns & Performance](https://medium.com/@praveencs87/advanced-vector-search-in-node-js-with-hnswsqlite-real-world-patterns-performance-6573cf370dfb?source=rss-8e2a7dce2432------2)
 - [Multiface.js SDK v1.0 — The Future of Multimodal UI is Here](https://medium.com/@praveencs87/multiface-js-sdk-v1-0-the-future-of-multimodal-ui-is-here-8ea79fd4e530?source=rss-8e2a7dce2432------2)
 - [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
@@ -18,7 +19,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
 - [hnswsqlite — Persistent Vector Search for Node.js with HNSWlib and SQLite](https://medium.com/@praveencs87/hnswsqlite-persistent-vector-search-for-node-js-with-hnswlib-and-sqlite-8c5cdc1f3ba8?source=rss-8e2a7dce2432------2)
 - [faissqlite — Fast, Persistent Vector Search in Python with FAISS and SQLite](https://medium.com/@praveencs87/faissqlite-fast-persistent-vector-search-in-python-with-faiss-and-sqlite-962c5874948f?source=rss-8e2a7dce2432------2)
-- [Supercharge Your Trello Workflow with MCP: Integrate Trello into AI Editors and Assistants](https://medium.com/@praveencs87/supercharge-your-trello-workflow-with-mcp-integrate-trello-into-ai-editors-and-assistants-06272e4f0e7c?source=rss-8e2a7dce2432------2)
 - [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
 - [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
