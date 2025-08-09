@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Vector Search in Node.js with hnswsqlite — Real-World Patterns & Performance](https://medium.com/@praveencs87/advanced-vector-search-in-node-js-with-hnswsqlite-real-world-patterns-performance-6573cf370dfb?source=rss-8e2a7dce2432------2)
 - [Multiface.js SDK v1.0 — The Future of Multimodal UI is Here](https://medium.com/@praveencs87/multiface-js-sdk-v1-0-the-future-of-multimodal-ui-is-here-8ea79fd4e530?source=rss-8e2a7dce2432------2)
 - [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
 - [Why We Need a Modular Memory Engine for Agents](https://medium.com/@praveencs87/why-we-need-a-modular-memory-engine-for-agents-706eb1030c05?source=rss-8e2a7dce2432------2)
@@ -27,7 +28,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
 - [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
 - [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
-- [Building Intelligent AI Agents: From Foundations to Advanced Architectures — Article Series — Intro](https://medium.com/@praveencs87/building-intelligent-ai-agents-from-foundations-to-advanced-architectures-article-series-intro-cad58a3bb38f?source=rss-8e2a7dce2432------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
