@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Agents from Scratch: Building Advanced AI Agents with LangChain](https://medium.com/@praveencs87/deep-agents-from-scratch-building-advanced-ai-agents-with-langchain-9d918451abcd?source=rss-8e2a7dce2432------2)
 - [Why Real-World System Experience is a Superpower in AI Agent Development](https://medium.com/@praveencs87/why-real-world-system-experience-is-a-superpower-in-ai-agent-development-4c756ff0bf44?source=rss-8e2a7dce2432------2)
 - [Unlocking Advanced Memory Strategies for LLMs & AI Agents](https://medium.com/@praveencs87/unlocking-advanced-memory-strategies-for-llms-ai-agents-a1bad11f2b0f?source=rss-8e2a7dce2432------2)
 - [Advanced Vector Search in Node.js with hnswsqlite — Real-World Patterns & Performance](https://medium.com/@praveencs87/advanced-vector-search-in-node-js-with-hnswsqlite-real-world-patterns-performance-6573cf370dfb?source=rss-8e2a7dce2432------2)
@@ -18,7 +19,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [How to Build a Self-Refining LLM Agent — Step-by-Step with Examples](https://medium.com/@praveencs87/how-to-build-a-self-refining-llm-agent-step-by-step-with-examples-e309d9df0eae?source=rss-8e2a7dce2432------2)
 - [️ Welcome to the Age of Multimodal UX](https://medium.com/@praveencs87/%EF%B8%8F-welcome-to-the-age-of-multimodal-ux-1c7dffe46fce?source=rss-8e2a7dce2432------2)
 - [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
-- [hnswsqlite — Persistent Vector Search for Node.js with HNSWlib and SQLite](https://medium.com/@praveencs87/hnswsqlite-persistent-vector-search-for-node-js-with-hnswlib-and-sqlite-8c5cdc1f3ba8?source=rss-8e2a7dce2432------2)
 - [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
 - [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
