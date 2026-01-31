@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Skills vs MCP: A Simple Way to Understand How AI Agents Really Work](https://medium.com/@praveencs87/claude-skills-vs-mcp-a-simple-way-to-understand-how-ai-agents-really-work-f4307c207ac5?source=rss-8e2a7dce2432------2)
 - [How to Use Reddit Without Sounding Like a Marketer](https://medium.com/@praveencs87/how-to-use-reddit-without-sounding-like-a-marketer-dc4ed89ac9ba?source=rss-8e2a7dce2432------2)
 - [3 Simple AI Prompts to Fix Tired Ads (No Marketing Jargon)](https://medium.com/@praveencs87/3-simple-ai-prompts-to-fix-tired-ads-no-marketing-jargon-6658c14ee3f6?source=rss-8e2a7dce2432------2)
 - [Deep Agents from Scratch: Building Advanced AI Agents with LangChain](https://medium.com/@praveencs87/deep-agents-from-scratch-building-advanced-ai-agents-with-langchain-9d918451abcd?source=rss-8e2a7dce2432------2)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Multiface.js SDK v1.0 — The Future of Multimodal UI is Here](https://medium.com/@praveencs87/multiface-js-sdk-v1-0-the-future-of-multimodal-ui-is-here-8ea79fd4e530?source=rss-8e2a7dce2432------2)
 - [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
 - [Why We Need a Modular Memory Engine for Agents](https://medium.com/@praveencs87/why-we-need-a-modular-memory-engine-for-agents-706eb1030c05?source=rss-8e2a7dce2432------2)
-- [Part 2: Mastering Self-Refining LLM Agents with Confidence Checks & Reasoning Loops](https://medium.com/@praveencs87/part-2-mastering-self-refining-llm-agents-with-confidence-checks-reasoning-loops-2374424b1312?source=rss-8e2a7dce2432------2)
 - [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
 - [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
