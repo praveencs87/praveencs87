@@ -18,16 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Advanced Vector Search in Node.js with hnswsqlite — Real-World Patterns & Performance](https://medium.com/@praveencs87/advanced-vector-search-in-node-js-with-hnswsqlite-real-world-patterns-performance-6573cf370dfb?source=rss-8e2a7dce2432------2)
 - [Multiface.js SDK v1.0 — The Future of Multimodal UI is Here](https://medium.com/@praveencs87/multiface-js-sdk-v1-0-the-future-of-multimodal-ui-is-here-8ea79fd4e530?source=rss-8e2a7dce2432------2)
 - [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
-- [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
-- [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
-- [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
-- [Building an E-Commerce Support Chatbot Part 6: Building the React Frontend](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-6-building-the-react-frontend-4om2)
-- [💬 Part 5: Designing Conversational Logic](https://dev.to/praveencs87/part-5-designing-conversational-logic-44b9)
-- [Building an E-Commerce Support Chatbot: Part 4 - Creating the LangChain Pipeline](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-4-creating-the-langchain-pipeline-420d)
-- [🧭 Part 3: Implementing Vector Search with Pinecone](https://dev.to/praveencs87/part-3-implementing-vector-search-with-pinecone-4aj0)
-- [Building an E-Commerce Support Chatbot: Part 2 - Building the Knowledge Base](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-2-building-the-knowledge-base-2mj2)
-- [Building an E-Commerce Support Chatbot: Part 1 - Introduction and Setup](https://dev.to/praveencs87/building-an-e-commerce-support-chatbot-part-1-introduction-and-setup-218d)
-- [Building an AI-Powered E-Commerce Support Chatbot using langchain.js : A Step-by-Step Guide](https://dev.to/praveencs87/building-an-ai-powered-e-commerce-support-chatbot-using-langchainjs-a-step-by-step-guide-29cp)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
