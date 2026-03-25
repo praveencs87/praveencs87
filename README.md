@@ -8,6 +8,7 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hooks in LLM Agents: The Missing Control Layer Most Builders Ignore](https://medium.com/@praveencs87/hooks-in-llm-agents-the-missing-control-layer-most-builders-ignore-e28b229097c3?source=rss-8e2a7dce2432------2)
 - [From Chatbots to Real AI Workers: What OpenClaw (aka Moltbot) Means for Founders and Developers](https://medium.com/@praveencs87/from-chatbots-to-real-ai-workers-what-openclaw-aka-moltbot-means-for-founders-and-developers-b9e9f84be42a?source=rss-8e2a7dce2432------2)
 - [Claude Skills vs MCP: A Simple Way to Understand How AI Agents Really Work](https://medium.com/@praveencs87/claude-skills-vs-mcp-a-simple-way-to-understand-how-ai-agents-really-work-f4307c207ac5?source=rss-8e2a7dce2432------2)
 - [How to Use Reddit Without Sounding Like a Marketer](https://medium.com/@praveencs87/how-to-use-reddit-without-sounding-like-a-marketer-dc4ed89ac9ba?source=rss-8e2a7dce2432------2)
@@ -17,7 +18,6 @@ If you would like to discuss a project, collaborate, or simply connect, feel fre
 - [Unlocking Advanced Memory Strategies for LLMs & AI Agents](https://medium.com/@praveencs87/unlocking-advanced-memory-strategies-for-llms-ai-agents-a1bad11f2b0f?source=rss-8e2a7dce2432------2)
 - [Advanced Vector Search in Node.js with hnswsqlite — Real-World Patterns & Performance](https://medium.com/@praveencs87/advanced-vector-search-in-node-js-with-hnswsqlite-real-world-patterns-performance-6573cf370dfb?source=rss-8e2a7dce2432------2)
 - [Multiface.js SDK v1.0 — The Future of Multimodal UI is Here](https://medium.com/@praveencs87/multiface-js-sdk-v1-0-the-future-of-multimodal-ui-is-here-8ea79fd4e530?source=rss-8e2a7dce2432------2)
-- [8 Billion Dollar SaaS Ideas for 2026](https://medium.com/@praveencs87/8-billion-dollar-saas-ideas-for-2026-c5cec7519036?source=rss-8e2a7dce2432------2)
 - [Use Cases for HNSW-SQLite Library](https://dev.to/praveencs87/use-cases-for-hnsw-sqlite-library-pnf)
 - [🚀 Part 8: Deployment and Optimization](https://dev.to/praveencs87/part-8-deployment-and-optimization-c0k)
 - [Part-7: Connecting Frontend and Backend](https://dev.to/praveencs87/part-7-connecting-frontend-and-backend-2e1i)
